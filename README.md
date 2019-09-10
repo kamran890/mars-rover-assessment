@@ -36,20 +36,28 @@ Expected Output:
 Rover1:1 3 N
 Rover2:5 1 E
 ```
-Task:
+## Task:
 
 Develop a command line app that can take the various inputs from the command line and generate the desired outputs. The application must accept a sequence of inputs from the command line or a file. Example input from file:
 ```
-$ app < input.txt
+$ app input.txt
 Rover1:1 3 N
 Rover2:5 1 E
 $
 ```
 See `input.txt` in this repo for a sample test input.
 
-Expectations:
+### Evaluation and Submission Notes
 
-- App should be working
+#### Expectations:
+
+- App should be working (We may build and run your app on MacOS or Ubuntu).
 - Code should be modular and readable
 - Unit tests
 - Your choice of language is one with which you are comfortable
+- Instructions on how to build and run the application. 
+- Include what versions of software are needed to build your app.
+- Write the code knowing that you'll need to enhance it in the next part of the interview process.
+- Be prepared to give a brief overview on your design decisions.
+
+- **Don't hesitate to ask us for clarifications**
